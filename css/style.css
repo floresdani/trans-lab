@@ -1,1 +1,40 @@
-/* YeyeYeee código aquí */
+body {
+  background-color: rgb(64, 65, 67);
+  text-align: center;
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+
+#log {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+span, h1 {
+  color: #f6a800;
+ }
+
+ .btn {
+  display: inline-block;
+  width: 10em;
+  margin:0;
+  background-color: #f6a800;
+  border: #f6a800;
+ }
+ 
+ .nav-item{
+  text-align: justify;
+ }
+
+ .ppalMenu {
+  display: inline-block;
+  align-items: center;
+  margin-bottom: 1%;
+  margin-top: 1%;
+  background-color: #f6a800;
+  border: #f6a800;
+  color: white;
+ }
